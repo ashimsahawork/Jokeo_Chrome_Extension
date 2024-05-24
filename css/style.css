@@ -1,0 +1,14 @@
+/* Reset default margin and padding */
+body { font-family: 'math'; margin: 0; padding: 0 }
+
+/* Container for the popup */
+.popup-container { width: 300px; background-color: #f9f9f9; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) }
+
+/* Header styling */
+.header { text-align: center; font-size: 22px; font-weight: bolder; margin-bottom: 10px; background-image: linear-gradient(to right, #f2584e, #efab04); color: #ffffff; padding: 10px }
+
+/* Joke content styling */
+.joke-content { font-size: 18px; text-align: center; margin: 20px 20px; color: #444 }
+
+/* Footer styling */
+.footer { text-align: center; font-size: 14px; color: #ffffff; background-image: linear-gradient(to right, #f2584e, #efab04); padding: 5px }
